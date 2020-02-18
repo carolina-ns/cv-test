@@ -2,13 +2,13 @@
 
 Details of my career as a student, traveler, financial analyst and data enthusiast: Highlights, projects, videos and so on. The objective is to register and to share here what doen't fit into a "regular CV". At the end of the day, we all know pictures are worth a thousand words. 
 
-## insert media
+#### insert media
 
 The next image is interesting. I created this CV visualization, the first image below, for a "Data Scientist Role" presentation. I also used it into my [How I became a Data Scientist](https://www.linkedin.com/pulse/how-did-i-become-data-scientist-rodrigo-souza/), which had thousands of visualizations. This image was also useful to help me understand how much my career has changed, how I went from reactive to proactive in terms of adopting new technologies. I really like to be an early adopter for new technologies.
 
 Don't you think that this kind of CV is much more efficient than a regular one?
 
-## insert media (![Visual CV](./images/cv2.JPG) code?)
+#### insert media (![Visual CV](./images/cv2.JPG) code?)
 
 ## Key Personal Links
 
