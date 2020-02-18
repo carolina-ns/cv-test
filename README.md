@@ -15,39 +15,26 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 + [LinkedIn Profile](https://www.linkedin.com/in/carolina-souza-usc/)
 + [GitHub](https://github.com/carolina-ns)
 
-## Investment Analyst Intern - USC Investment Office (Jan/2020 - Today)
+## Work Experience 
+
+### Investment Analyst Intern - USC Investment Office, Los Angeles (Jan/2020 - Today)
 
 I work with University of Southern California's Investment team to assist in managing our endownment, the 21st largest collegiate fund. As as intern I build Excel models, delve into industry and investment research, and learn the fundamentals of buy and sell side finance. 
 
-### My Code on Azure GitHub Repos
+### Student-Athlete Academic Services Tutor - USC Athletics, Los Angeles (Sept/2018 - Jan/2020)
 
-+ [Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
-+ [Learn AI Airlift](https://github.com/Azure/LearnAI-Airlift)
-+ [Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
-+ [Cognitive Services Bootcamp - Computer Vision Bot](https://github.com/Azure/LearnAI-bootcamp)
-+ [Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
-
-### My Toolkits - GitHub Repos
-
-Some of them are pretty simple, while others are very complete. The fact is, I don't like rework or a mess. So I save and organize everything.
-
-+ [Python Custom Skills Toolkit](https://github.com/Rodrigossz/Python-Custom-Skills-Toolkit)
-+ [PowerShell Tooklit](https://github.com/Rodrigossz/PowerShell-Toolkit)
-+ [Vertica Toolkit](https://github.com/Rodrigossz/Vertica-Toolkit)
-+ [Hadoop Toolkit](https://github.com/Rodrigossz/Hadoop-Toolkit)
-+ [Oracle Toolkit](https://github.com/Rodrigossz/Oracle-Toolkit)
-+ [MSSQL Toolkit](https://github.com/Rodrigossz/MSSQL-Toolkit)
+•	Met with student-athletes, individually and in groups, to discuss course work and assist in comprehension of course material
+•	Worked with students to set semester, weekly, and daily goals for each course, as well as develop a plan of action
+•	Assessed student-athletes after each meeting by completing detailed feedback forms for USC Athletics coaches and advisors
 
 
-### My Blog Posts on Microsoft Tech Community
+### Management Consultant - Abon Sayur	Surakarta, Indonesia (June/2020 - August/2020)
 
-+ [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)**--> Innovation!!!**
-+ [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
-](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!!**
-+ [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
-+ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!!**
-+ [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
-+ [Announcing the Python Custom Skills Toolkit](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcing-the-python-custom-skills-toolkit/ba-p/1106493) **--> Innovation!!!**
+•	Analyzed Indonesian food market via profitability matrix and delivered investment recommendations to management with team
+• Improved productivity by communicating with finance, operations, and IT departments to understand and streamline processes
+• Located and reported issues with marketing and pricing, improving the sales channel by increasing sales by 60% in 30 days
+• Developed revenue forecast model with an expected 25% increase in annual net income generated.
+
 
 ### My Work as Speaker / Presenter / Instructor
 
@@ -86,9 +73,6 @@ What | Where, When | Details
 ![London](./images/london-feb-2018-ai-bootcamp.PNG) | London, February 2018 | Delivered the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp): Cognitive Services, CosmosDb, Azure Search, and Bots
 ![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | Intelligent Cloud Bootcamp session, with [Buck Woody](https://twitter.com/BuckWoodyMSFT), about AI and DevOps
 
-## Cloud Solutions Architect - Microsoft Brazil (Nov/2015 - Nov/2017)
-
-Some cool projects from my Azure CSA role, from Nov 2015 until Nov 2017. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
 
 ### IoT + Modern Data Warehouse solution for Wind Farms - August 2017
 
