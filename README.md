@@ -30,20 +30,20 @@ I work with University of Southern California's Investment team to assist in man
 
 ### Management Consultant - Abon Sayur Surakarta, Indonesia (June 2020 - August 2020)
 
-•	Analyzed Indonesian food market via profitability matrix and delivered investment recommendations to management with team
-• Improved productivity by communicating with finance, operations, and IT departments to understand and streamline processes
-• Located and reported issues with marketing and pricing, improving the sales channel by increasing sales by 60% in 30 days
-• Developed revenue forecast model with an expected 25% increase in annual net income generated.
++	Analyzed Indonesian food market via profitability matrix and delivered investment recommendations to management with team
++ Improved productivity by communicating with finance, operations, and IT departments to understand and streamline processes
++ Located and reported issues with marketing and pricing, improving the sales channel by increasing sales by 60% in 30 days
++ Developed revenue forecast model with an expected 25% increase in annual net income generated.
 
 ## Research Experience
 
 ### Quantitative Finance R-Coding Project - Marshall School of Business, Los Angeles (May 19 – Dec 20)
-•	Determined effective allocation of five different securities within portfolio by calculating Global Minimal Variance and Tangency Point
-•	Constructed a Simple Linear Regression model by estimating Jensen  and  coefficients of the CAPM and predicted the Security Market Line to calculate cost of equity by simultaneously running single and two factor Analysis of Variance (ANOVA) tests
++	Determined effective allocation of five different securities within portfolio by calculating Global Minimal Variance and Tangency Point
++	Constructed a Simple Linear Regression model by estimating Jensen  and  coefficients of the CAPM and predicted the Security Market Line to calculate cost of equity by simultaneously running single and two factor Analysis of Variance (ANOVA) tests
 
 ### Field Research with USC Professor Brett Sheehan, Mainland China (May 18 – June 2018)
-•	Conducted iresearch about Global Consumer Culture in Beijing, Shanghai, Kaifeng, Zhengzhou and Shanqiu. Led market analysis of the Coffee industry through rigorous field data collection, import and production statistics, and qualitative research.  
-•	Results concluded Coffee is a luxurious beverage for Chinese consumers, whom reliably pay up to ten times the cost of a cup of tea for a cup of coffee in a western-style café.
++	Conducted iresearch about Global Consumer Culture in Beijing, Shanghai, Kaifeng, Zhengzhou and Shanqiu. Led market analysis of the Coffee industry through rigorous field data collection, import and production statistics, and qualitative research.  
++	Results concluded Coffee is a luxurious beverage for Chinese consumers, whom reliably pay up to ten times the cost of a cup of tea for a cup of coffee in a western-style café.
 
 
 ## Professional Development
@@ -55,17 +55,17 @@ I work with University of Southern California's Investment team to assist in man
 ### JPMorgan Chase & Co - Sophomore Edge, Chicago (2019)
 
 ## Technical Skills
-Programming Languages: R, MATLAB, STATA, PYTHON
-SAS: mySQL, SAS, Tableau, OneDrive, Google Cloud, Delphi, MS Excel, Outlook, Google Drive, MailChimp
-Modeling: Financial Statement Analysis, Football Field Graphic, Proforma Models, 
-Forecasting: Regression Analysis, Econometrics, ANOVA, R Software
++ Programming Languages: R, MATLAB, STATA, PYTHON
++ SAS: mySQL, SAS, Tableau, OneDrive, Google Cloud, Delphi, MS Excel, Outlook, Google Drive, MailChimp
++ Modeling: Financial Statement Analysis, Football Field Graphic, Proforma Models, 
++ Forecasting: Regression Analysis, Econometrics, ANOVA, R Software
 
 ## Language Skills
-Portuguese (Fluent)
-English (Fluent)
-Spanish (Fluent)
-Chinese (Apprendice)
-French (Apprendice)
++ Portuguese (Fluent)
++ English (Fluent)
++ Spanish (Fluent)
++ Chinese (Apprendice)
++ French (Apprendice)
 
 
 
