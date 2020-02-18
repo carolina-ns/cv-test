@@ -12,17 +12,12 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ## Key Personal Links
 
-+ [LinkedIn Profile](https://www.linkedin.com/in/rodrigossz/)
-+ [LinkedIn Articles](https://www.linkedin.com/in/rodrigossz/detail/recent-activity/posts/)
-+ [Blog: Data is the New Oil](https://datanewoil.tumblr.com/)
-+ [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
-+ [GitHub](https://github.com/Rodrigossz)
++ [LinkedIn Profile](https://www.linkedin.com/in/carolina-souza-usc/)
++ [GitHub](https://github.com/carolina-ns)
 
-## Senior Applied Data Scientist - Microsoft US (Nov/2017 - Today)
+## Investment Analyst Intern - USC Investment Office (Jan/2020 - Today)
 
-Initially working with the LearnAI team, I was an AI Developer and Instructor. I created and delived the trainings, that were end-to-end AI Solutions using multiple products like Cognitive Services, Azure Machine Learning, CosmosDB, Bots, among others. All content included theory materials and thands-on labs. I delivered in-person and online trainings, including  "train the trainers" courses and all of the biggests Microsoft conferences like Ready, Inspire, Ignite, and MLADS. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
-
-In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
+I work with University of Southern California's Investment team to assist in managing our endownment, the 21st largest collegiate fund. As as intern I build Excel models, delve into industry and investment research, and learn the fundamentals of buy and sell side finance. 
 
 ### My Code on Azure GitHub Repos
 
