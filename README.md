@@ -23,9 +23,9 @@ I work with University of Southern California's Investment team to assist in man
 
 ### Student-Athlete Academic Services Tutor - USC Athletics, Los Angeles (September 2018 - January 2020)
 
-•	Met with student-athletes, individually and in groups, to discuss course work and assist in comprehension of course material
-•	Worked with students to set semester, weekly, and daily goals for each course, as well as develop a plan of action
-•	Assessed student-athletes after each meeting by completing detailed feedback forms for USC Athletics coaches and advisors
++	Met with student-athletes, individually and in groups, to discuss course work and assist in comprehension of course material
++	Worked with students to set semester, weekly, and daily goals for each course, as well as develop a plan of action
++	Assessed student-athletes after each meeting by completing detailed feedback forms for USC Athletics coaches and advisors
 
 
 ### Management Consultant - Abon Sayur Surakarta, Indonesia (June 2020 - August 2020)
