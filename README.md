@@ -2,15 +2,12 @@
 
 Details of my career as a student, traveler, financial analyst and data enthusiast: Highlights, projects, videos and so on. The objective is to register and to share here what doen't fit into a "regular CV". At the end of the day, we all know pictures are worth a thousand words. 
 
-#### insert media
-
 The next image is interesting. I created this CV visualization, the first image below, for a "Data Scientist Role" presentation. I also used it into my [How I became a Data Scientist](https://www.linkedin.com/pulse/how-did-i-become-data-scientist-rodrigo-souza/), which had thousands of visualizations. This image was also useful to help me understand how much my career has changed, how I went from reactive to proactive in terms of adopting new technologies. I really like to be an early adopter for new technologies.
 
 Don't you think that this kind of CV is much more efficient than a regular one?
 
 ![Profile Photo](./images/CarolinaSouza.jpg)
 
-#### insert media (![Visual CV](./images/cv2.JPG) code?)
 
 ## Key Personal Links
 
@@ -22,6 +19,9 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 ### Investment Analyst Intern - USC Investment Office, Los Angeles (January 2020 - Today)
 
 I work with University of Southern California's Investment team to assist in managing our endownment, the 21st largest collegiate fund. As as intern I build Excel models, delve into industry and investment research, and learn the fundamentals of buy and sell side finance. 
+
+Attached is a link to my most recent project.
++ [Quantitative R Financial Project](./Desktop/Personal Finance Projects/Carolina S - Quant Investing.pdf)
 
 ### Student-Athlete Academic Services Tutor - USC Athletics, Los Angeles (September 2018 - January 2020)
 
