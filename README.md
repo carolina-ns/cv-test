@@ -21,7 +21,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 I work with University of Southern California's Investment team to assist in managing our endownment, the 21st largest collegiate fund. As as intern I build Excel models, delve into industry and investment research, and learn the fundamentals of buy and sell side finance. 
 
 Attached is a link to my most recent project.
-+ [Quantitative R Financial Project](./Desktop/Personal Finance Projects/Carolina S - Quant Investing.pdf)
+![Quantitative R Financial Project](./Desktop/Personal Finance Projects/Carolina S - Quant Investing.pdf)
 
 ### Student-Athlete Academic Services Tutor - USC Athletics, Los Angeles (September 2018 - January 2020)
 
